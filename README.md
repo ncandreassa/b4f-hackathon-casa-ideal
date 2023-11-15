@@ -1,4 +1,4 @@
-# CasaIdeal: Seu App de Busca de Imóveis Ideal
+# 🏡 CasaIdeal: Seu App de Busca de Imóveis Ideal
 
 O CasaIdeal é uma aplicação desenvolvida utilizando Node.js, Next.js e MongoDB, projetada para atender agentes imobiliários na escolha do imóvel ideal para seus clientes, levando em consideração requisitos específicos.
 
