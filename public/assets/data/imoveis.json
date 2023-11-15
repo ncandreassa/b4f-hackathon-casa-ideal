@@ -1,0 +1,325 @@
+[
+  {
+    "img": "/assets/images/Casa15.png",
+    "name": "Moradia em Queluz",
+    "type": "Moradia",
+    "price": 1300,
+    "typology": "T3",
+    "locality": "Queluz",
+    "address": "Rua dos Cravos, 12",
+    "description": "Moradia de alto padrão em Queluz disponível para arrendamento. Espaçosa e luxuosa. Não são permitidos animais de estimação.",
+    "business": "Arrendar",
+    "owner": "Ricardo Marques",
+    "features": [
+      "Piscina",
+      "Terraço"
+    ]
+  },
+  {
+    "img": "/assets/images/Casa11.png",
+    "name": "Apartamento em Sintra",
+    "type": "Apartamento",
+    "price": 800,
+    "typology": "T2",
+    "locality": "Sintra",
+    "address": "Avenida das Magnólias, 2",
+    "description": "Apartamento acolhedor no centro de Sintra disponível para arrendamento. Ideal para casais e turistas. Animais de estimação não são permitidos.",
+    "business": "Arrendar",
+    "owner": "Sónia Fernandes",
+    "features": [
+      "Varanda",
+      "Garagem"
+    ]
+  },
+    {
+    "img": "/assets/images/Casa1.png",
+    "name": "Moradia em Queluz",
+    "type": "Moradia",
+    "price": 250000,
+    "typology": "T3",
+    "locality": "Queluz",
+    "address": "Rua das Flores, 6",
+    "description": "Moradia em Queluz, amplo espaço, ambiente acolhedor, excelente localização, ideal para famílias que valorizam conforto e conveniência. Adequada para quem tem animais de estimação.",
+    "business": "Comprar",
+    "owner": "Maria Silva",
+    "features": [
+      "Varanda",
+      "Lareira",
+      "Garagem"
+    ]
+  },
+  {
+    "img": "/assets/images/Casa19.png",
+    "name": "Moradia em Queluz",
+    "type": "Moradia",
+    "price": 1350,
+    "typology": "T3",
+    "locality": "Queluz",
+    "address": "Rua dos Cravos, 18",
+    "description": "Moradia de alto padrão em Queluz disponível para arrendamento. Espaçosa e luxuosa. Não são permitidos animais de estimação.",
+    "business": "Arrendar",
+    "owner": "Laura Marques",
+    "features": [
+      "Piscina"
+    ]
+  },
+  {
+    "img": "/assets/images/Casa13.png",
+    "name": "Apartamento em Sintra",
+    "type": "Apartamento",
+    "price": 950,
+    "typology": "T2",
+    "locality": "Sintra",
+    "address": "Avenida das Magnólias, 6",
+    "description": "Apartamento acolhedor no centro de Sintra disponível para arrendamento. Ideal para casais e turistas. Animais de estimação não são permitidos.",
+    "business": "Arrendar",
+    "owner": "Hugo Fernandes",
+    "features": [
+      "Varanda",
+      "Garagem"
+    ]
+  },
+  {
+    "img": "/assets/images/Casa2.png",
+    "name": "Apartamento em Sintra",
+    "type": "Apartamento",
+    "price": 180000,
+    "typology": "T2",
+    "locality": "Sintra",
+    "address": "Avenida Central, 15",
+    "description": "Apartamento em Sintra com vista deslumbrante, comodidades modernas, perfeito para casais que buscam um refúgio aconchegante. Excelente opção para quem não tem animais de estimação.",
+    "business": "Comprar",
+    "owner": "João Santos",
+    "features": [
+      "Varanda",
+      "Piscina"
+    ]
+  },
+  {
+    "img": "/assets/images/Casa17.png",
+    "name": "Apartamento em Sintra",
+    "type": "Apartamento",
+    "price": 1250,
+    "typology": "T3",
+    "locality": "Sintra",
+    "address": "Rua das Oliveiras, 10",
+    "description": "Apartamento nas colinas de Sintra disponível para arrendamento. Vista panorâmica. Não são permitidos animais de estimação.",
+    "business": "Arrendar",
+    "owner": "Inês Santos",
+    "features": [
+      "Varanda",
+      "Lareira"
+    ]
+  },
+  {
+    "img": "/assets/images/Casa3.png",
+    "name": "Moradia em Rio de Mouro",
+    "type": "Moradia",
+    "price": 320000,
+    "typology": "T3",
+    "locality": "Rio de Mouro",
+    "address": "Travessa dos Pinheiros, 8",
+    "description": "Moradia espaçosa em Rio de Mouro, ideal para famílias maiores. Oferece um ambiente tranquilo, muita luz natural e é adequada para quem tem animais de estimação.",
+    "business": "Comprar",
+    "owner": "Ana Oliveira",
+    "features": [
+      "Garagem",
+      "Terraço"
+    ]
+  },
+  {
+    "img": "/assets/images/Casa4.png",
+    "name": "Apartamento em Massamá",
+    "type": "Apartamento",
+    "price": 125000,
+    "typology": "T1",
+    "locality": "Massamá",
+    "address": "Rua das Oliveiras, 12",
+    "description": "Apartamento encantador em Massamá, perfeito para solteiros que buscam um lar acolhedor e prático. Não é adequado para animais de estimação.",
+    "business": "Comprar",
+    "owner": "Pedro Fernandes",
+    "features": [
+      "Lareira"
+    ]
+  },
+  {
+    "img": "/assets/images/Casa18.png",
+    "name": "Moradia em Colares",
+    "type": "Moradia",
+    "price": 1600,
+    "typology": "T3",
+    "locality": "Colares",
+    "address": "Rua da Praia, 40",
+    "description": "Moradia de luxo em Colares disponível para arrendamento. Comodidades modernas e piscina. Não são permitidos animais de estimação.",
+    "business": "Arrendar",
+    "owner": "André Alves",
+    "features": [
+      "Piscina",
+      "Garagem",
+      "Terraço"
+    ]
+  },
+  {
+    "img": "/assets/images/Casa5.png",
+    "name": "Moradia em Colares",
+    "type": "Moradia",
+    "price": 420000,
+    "typology": "T3",
+    "locality": "Colares",
+    "address": "Avenida das Palmeiras, 3",
+    "description": "Moradia elegante em Colares, combinando charme tradicional e comodidades modernas. Ideal para famílias sofisticadas, adequada para quem tem animais de estimação.",
+    "business": "Comprar",
+    "owner": "Isabel Costa",
+    "features": [
+      "Varanda",
+      "Piscina",
+      "Arrecadação"
+    ]
+  },
+  {
+    "img": "/assets/images/Casa6.png",
+    "name": "Apartamento em Algueirão",
+    "type": "Apartamento",
+    "price": 155000,
+    "typology": "T2",
+    "locality": "Algueirão",
+    "address": "Praça das Azáleas, 9",
+    "description": "Apartamento moderno em Algueirão, estilo de vida prático e confortável, ideal para casais jovens que não possuem animais de estimação.",
+    "business": "Comprar",
+    "owner": "Luís Pereira",
+    "features": [
+      "Garagem"
+    ]
+  },
+  {
+    "img": "/assets/images/Casa8.png",
+    "name": "Apartamento em Agualva-Cacém",
+    "type": "Apartamento",
+    "price": 1200,
+    "typology": "T2",
+    "locality": "Agualva-Cacém",
+    "address": "Largo das Amendoeiras, 2",
+    "description": "Apartamento espaçoso em Agualva-Cacém, comodidades modernas, acesso conveniente a serviços locais. Não é adequado para animais de estimação.",
+    "business": "Arrendar",
+    "owner": "Carlos Machado",
+    "features": [
+      "Garagem",
+      "Terraço"
+    ]
+  },
+  {
+    "img": "/assets/images/Casa7.png",
+    "name": "Moradia em Belas",
+    "type": "Moradia",
+    "price": 290000,
+    "typology": "T3",
+    "locality": "Belas",
+    "address": "Rua das Acácias, 7",
+    "description": "Moradia em Belas oferece um ambiente sereno com um toque de luxo, ideal para quem busca tranquilidade. Adequada para famílias com animais de estimação.",
+    "business": "Comprar",
+    "owner": "Sofia Ribeiro",
+    "features": [
+      "Varanda",
+      "Piscina"
+    ]
+  },
+  {
+    "img": "/assets/images/Casa9.png",
+    "name": "Moradia em Mira-Sintra",
+    "type": "Moradia",
+    "price": 340000,
+    "typology": "T3",
+    "locality": "Mira-Sintra",
+    "address": "Avenida dos Pinheiros, 4",
+    "description": "Moradia ampla em Mira-Sintra, perfeita para famílias maiores. Oferece espaço e conforto e é adequada para quem tem animais de estimação.",
+    "business": "Comprar",
+    "owner": "Rita Ferreira",
+    "features": [
+      "Varanda",
+      "Lareira",
+      "Garagem",
+      "Piscina"
+    ]
+  },
+  {
+    "img": "/assets/images/Casa10.png",
+    "name": "Apartamento em Monte Abraão",
+    "type": "Apartamento",
+    "price": 1000,
+    "typology": "T2",
+    "locality": "Monte Abraão",
+    "address": "Travessa das Oliveiras, 10",
+    "description": "Apartamento acolhedor em Monte Abraão, opção de arrendamento acessível para quem procura um lar sem animais de estimação.",
+    "business": "Arrendar",
+    "owner": "Manuel Sousa",
+    "features": [
+      "Garagem",
+      "Arrecadação"
+    ]
+  },
+  {
+    "img": "/assets/images/Casa16.png",
+    "name": "Moradia em Queluz",
+    "type": "Moradia",
+    "price": 1200,
+    "typology": "T3",
+    "locality": "Queluz",
+    "address": "Rua das Margaridas, 14",
+    "description": "Moradia espaçosa em Queluz para arrendamento, ideal para famílias que procuram um lar confortável. Não são permitidos animais de estimação.",
+    "business": "Arrendar",
+    "owner": "Carolina Santos",
+    "features": [
+      "Garagem",
+      "Terraço"
+    ]
+  },
+  {
+    "img": "/assets/images/Casa12.png",
+    "name": "Apartamento em Sintra",
+    "type": "Apartamento",
+    "price": 900,
+    "typology": "T2",
+    "locality": "Sintra",
+    "address": "Avenida das Camélias, 6",
+    "description": "Apartamento no centro de Sintra disponível para arrendamento. Perfeito para casais e turistas. Animais de estimação não são permitidos.",
+    "business": "Arrendar",
+    "owner": "Rui Almeida",
+    "features": [
+      "Varanda",
+      "Garagem"
+    ]
+  },
+  {
+    "img": "/assets/images/Casa20.png",
+    "name": "Moradia em Colares",
+    "type": "Moradia",
+    "price": 1450,
+    "typology": "T3",
+    "locality": "Colares",
+    "address": "Rua da Praia, 30",
+    "description": "Moradia de luxo em Colares disponível para arrendamento. Comodidades modernas e piscina. Não são permitidos animais de estimação.",
+    "business": "Arrendar",
+    "owner": "Mariana Silva",
+    "features": [
+      "Piscina",
+      "Arrecadação",
+      "Garagem"
+    ]
+  },
+  {
+    "img": "/assets/images/Casa14.png",
+    "name": "Apartamento em Sintra",
+    "type": "Apartamento",
+    "price": 1100,
+    "typology": "T3",
+    "locality": "Sintra",
+    "address": "Rua das Oliveiras, 8",
+    "description": "Apartamento nas colinas de Sintra disponível para arrendamento. Vista panorâmica. Não são permitidos animais de estimação.",
+    "business": "Arrendar",
+    "owner": "Catarina Pereira",
+    "features": [
+      "Varanda",
+      "Lareira"
+    ]
+  }
+]

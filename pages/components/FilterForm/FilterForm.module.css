@@ -1,0 +1,122 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    gap: 4rem;
+    font-size: 1.6rem;
+    margin: 2rem;
+}
+
+.container p {
+    font-weight: 600;
+}
+
+.container input {
+    background-color: transparent;
+    border-radius: .8rem;
+    height: 4rem;
+    border: .2rem solid var(--secondary-color);
+}
+
+.container button {
+    height: 4rem;
+}
+
+.location input {
+    width: 100%;
+    margin-top: 1.4rem;
+    padding: 1.2rem 1.2rem 1.2rem 3.6rem;
+    background-image: url('/assets/icons/icon-location.svg');
+    background-repeat: no-repeat;
+    background-position: .8rem .5rem;
+    font-size: 1.6rem;
+}
+
+.business {
+    display: flex;
+    justify-content: space-between;
+}
+
+.business button {
+    width: 14rem;
+    border-radius: .8rem;
+    font-weight: 600;
+    font-size: 1.6rem;
+    background-color: transparent;
+    border: .2rem solid var(--secondary-color);
+}
+
+.selectecOption {
+    background-color: var(--secondary-color) !important;
+    color: var(--primary-color);
+}
+
+.price input {
+    padding: 1rem;
+    width: 11.8rem;
+    margin-top: 1.4rem;
+    font-size: 1.6rem;
+}
+
+.propertyType {
+    display: flex;
+    flex-direction: column;
+}
+
+.option {
+    margin-top: 1.4rem;
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.option input {
+    width: 2.5rem;
+}
+
+.buttons {
+    margin-top: 1.4rem;
+    display: flex;
+    gap: 2rem;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.buttons button {
+    width: 8rem;
+    border-radius: .8rem;
+    font-size: 1.6rem;
+    background-color: transparent;
+    border: .2rem solid var(--secondary-color);
+}
+
+.featuresTitle {
+    margin-bottom: 3rem;
+}
+
+.submit {
+    display: flex;
+    justify-content: space-between;
+}
+
+.submitButton {
+    width: 14rem;
+    border-radius: .8rem;
+    font-size: 1.6rem;
+    font-weight: 600;
+    background-color: var(--secondary-color);
+    color: var(--primary-color);
+    border: .2rem solid var(--secondary-color);
+}
+
+.resetButton {
+    background-color: transparent;
+    border: none;
+    font-size: 1.6rem;
+    font-weight: 600;
+}
+
+.filter{
+    display: flex;
+    justify-content: space-between;
+    gap: 2rem;
+}

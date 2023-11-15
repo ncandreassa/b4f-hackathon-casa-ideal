@@ -1,0 +1,42 @@
+.container {
+    width: 100%;
+    height: 340px;
+    box-shadow: var(--box-shadow-card);
+    border-radius: .4rem;
+    display: flex;
+    flex-direction: column;
+    gap: .5rem;
+    margin-bottom: 4rem;
+    text-decoration: none;
+    color: var(--text-color);
+}
+
+.img {
+    width: auto;
+    height: 200px;
+}
+
+.info {
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    gap: .6rem;
+}
+
+.type{
+    font-weight: 600;
+    font-size: 1.2rem;
+}
+
+.name{
+    font-size: 1.6rem;
+}
+
+.address, .typology, .price {
+    font-size: 1.4rem;
+}
+
+.price {
+    font-weight: 600;
+    color: var(--secondary-color);
+}

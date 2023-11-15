@@ -1,0 +1,74 @@
+.container {
+    margin: 3.4rem 2.6rem 0 2.6rem;
+}
+
+.backButton {
+    background-color: transparent;
+    border: none;
+}
+
+.card {
+    margin-top: 3rem;
+    padding-bottom: 12rem;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    font-size: 1.6rem;
+}
+
+.img {
+    width: 100%;
+    height: auto;
+    box-shadow: var(--box-shadow-card);
+}
+
+.name {
+    width: 100%;
+    text-align: center;
+    color: var(--secondary-color);
+    font-size: 1.8rem;
+    font-weight: 500;
+}
+
+.description {
+    color: var(--sc-text-color);
+    text-align: center;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+    font-weight: 400;
+}
+
+.info {
+    display: flex;
+    flex-direction: column;
+    gap: 2.5rem;
+    margin-top: 2rem;
+}
+
+.info span {
+    font-weight: 600;
+}
+
+.address {
+    display: flex;
+    justify-content: space-between;
+}
+
+.features li {
+    margin-top: 1rem;
+}
+
+.types {
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: var(--bg-color);
+}

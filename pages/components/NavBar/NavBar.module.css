@@ -1,0 +1,19 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    padding: 1.6rem 4.4rem;
+    box-shadow: 2px 5px 12px 9px #00000021;
+    background-color: var(--primary-color);
+}
+
+.button {
+    width: 3.2rem;
+    height: 3.2rem;
+    border: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    background-color: transparent;
+}
